@@ -1,7 +1,6 @@
-Hector Minaya
-=============
+# Hector Minaya
 
-#### Hi!👋. I'm a software developer with over 20 years of experience. If you'd like to get in touch reach out through 👇
+Hi!👋. I'm a software developer with over 20 years of experience. If you'd like to get in touch reach out through 👇
 
 * <img width="12" height="12" src="https://image.flaticon.com/icons/svg/733/733579.svg"> [@HectorMinaya](https://twitter.com/HectorMinaya)
 * <img width="12" height="12" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyS59nqiMsivC84scpTSqMGcywCS6IvDs0HYPSCHO3qK6kbHI&s"> [hminaya](https://dev.to/hminaya)
@@ -9,3 +8,13 @@ Hector Minaya
 * <img width="12" height="12" src="https://image.flaticon.com/icons/svg/1384/1384014.svg"> [HectorMinaya](https://www.linkedin.com/in/hectorminaya/)
 * <img width="12" height="12" src="https://image.flaticon.com/icons/svg/2111/2111628.svg"> [HectorMinaya](https://stackoverflow.com/users/177394/hminaya)
 * <img width="12" height="12" src="https://image.flaticon.com/icons/svg/174/174858.svg"> [hminaya](https://medium.com/@hminaya)
+
+## 3 Favorite Languages
+
+* C#
+* JavaScript
+* Ruby
+
+## DevSetup
+* On Windows 👉 https://dev.to/hminaya/devtoollist-2019-win10-55o1
+* On Mac 👉 (WIP)

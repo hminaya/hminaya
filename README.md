@@ -9,6 +9,10 @@ Hi!👋. I'm a software developer with over 20 years of experience. If you'd lik
 * <img width="12" height="12" src="https://image.flaticon.com/icons/svg/2111/2111628.svg"> [HectorMinaya](https://stackoverflow.com/users/177394/hminaya)
 * <img width="12" height="12" src="https://image.flaticon.com/icons/svg/174/174858.svg"> [hminaya](https://medium.com/@hminaya)
 
+## Just having fun
+* Terremoto [iOS](https://apps.apple.com/us/app/terremoto-earthquake/id1494423474?ls=1) / [Android](https://play.google.com/store/apps/details?id=com.hminaya.terremoto)
+* Machete Hard Enduro [iOS](https://apps.apple.com/us/app/mhe/id1493135269?ls=1) / [Android](https://play.google.com/store/apps/details?id=com.machetehardenduro.pro)
+
 ## 3 Favorite Languages
 
 * C#

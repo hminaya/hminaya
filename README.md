@@ -12,6 +12,7 @@ Hi!👋. I'm a software developer with over 20 years of experience. If you'd lik
 ## Just having fun
 * Terremoto 📱 [iOS](https://apps.apple.com/us/app/terremoto-earthquake/id1494423474?ls=1) / [Android](https://play.google.com/store/apps/details?id=com.hminaya.terremoto)
 * Machete Hard Enduro 📱 [iOS](https://apps.apple.com/us/app/mhe/id1493135269?ls=1) / [Android](https://play.google.com/store/apps/details?id=com.machetehardenduro.pro)
+* Moneda 💻 [npm](https://www.npmjs.com/package/moneda-cli)
 
 ## 3 Favorite Languages
 

@@ -10,7 +10,7 @@ Hi!👋. I'm a software developer with over 20 years of experience. If you'd lik
 * <img width="12" height="12" src="https://image.flaticon.com/icons/svg/174/174858.svg"> [hminaya](https://medium.com/@hminaya)
 
 ## Just having fun
-* Terremoto 📱 [iOS](https://apps.apple.com/us/app/terremoto-earthquake/id1494423474?ls=1) / [Android](https://play.google.com/store/apps/details?id=com.hminaya.terremoto) / UWP
+* Terremoto 📱 [iOS](https://apps.apple.com/us/app/terremoto-earthquake/id1494423474?ls=1) / [Android](https://play.google.com/store/apps/details?id=com.hminaya.terremoto) / UWP / [Amazon](https://www.amazon.com/gp/product/B0841SBY3G)
 * Machete Hard Enduro 📱 [iOS](https://apps.apple.com/us/app/mhe/id1493135269?ls=1) / [Android](https://play.google.com/store/apps/details?id=com.machetehardenduro.pro)
 * Moneda 💻 [npm](https://www.npmjs.com/package/moneda-cli)
 

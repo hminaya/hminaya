@@ -20,6 +20,13 @@ Hi!👋. I'm a software developer with over 20 years of experience. If you'd lik
 * Ruby
 * JavaScript
 
+## Recent Conferences
+Played a role in organizing, planning and executing
+* CDC 2019 👉 https://cdc.dev/cdc-2019
+* Xamarin Developer Summit 👉 https://www.youtube.com/playlist?list=PLM75ZaNQS_FYkolOLIcZFi_3eSORFZxHx
+* CDC 2018 👉 https://cdc.dev/cdc-2018
+* CodeCampSDQ Evolved 👉 https://codecampsdq.com/codecampsdq-evolved-homepage/
+
 ## DevSetup
 * On Windows 👉 https://dev.to/hminaya/devtoollist-2019-win10-55o1
 * On Mac 👉 (WIP)

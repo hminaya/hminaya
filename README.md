@@ -27,6 +27,8 @@ Played a role in organizing, planning and executing
 * CDC 2018 👉 https://cdc.dev/cdc-2018
 * CodeCampSDQ Evolved 👉 https://codecampsdq.com/codecampsdq-evolved-homepage/
 
+... before 2018 I rebased & squashed ...
+
 ## DevSetup
 * On Windows 👉 https://dev.to/hminaya/devtoollist-2019-win10-55o1
 * On Mac 👉 (WIP)

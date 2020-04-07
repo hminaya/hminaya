@@ -17,8 +17,8 @@ Hi!👋. I'm a software developer with over 20 years of experience. If you'd lik
 ## 3 Favorite Languages
 
 * C#
-* JavaScript
 * Ruby
+* JavaScript
 
 ## DevSetup
 * On Windows 👉 https://dev.to/hminaya/devtoollist-2019-win10-55o1
